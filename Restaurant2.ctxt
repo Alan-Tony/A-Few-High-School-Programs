@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=str1\ str2\ str3\ str4
+comment0.target=java.lang.String\ printbillcontents(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=Restaurant2()
+comment2.params=
+comment2.target=void\ initq()
+comment3.params=
+comment3.target=void\ displaymenu2()
+comment4.params=
+comment4.target=int\ acceptorder()
+comment5.params=donepoint
+comment5.target=int\ calculatebill2(int)
+comment6.params=total
+comment6.target=void\ displaybill2(int)
+comment7.params=total
+comment7.target=void\ paybill(int)
+comment8.params=
+comment8.target=void\ discount()
+comment9.params=
+comment9.target=void\ main()
+numComments=10

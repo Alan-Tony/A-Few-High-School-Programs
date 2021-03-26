@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ displaymenu()
+comment1.params=
+comment1.target=int\ acceptorder()
+comment2.params=donepoint
+comment2.target=int\ calculatebill(int)
+comment3.params=total\ donepoint
+comment3.target=void\ displaybill(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
